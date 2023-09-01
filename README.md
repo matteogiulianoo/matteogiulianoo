@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @matteogiulianoo
 - 👀 I'm interested in the world of computer science
-- 🌱 I am currently learning JAVA and PHP.
+- 🌱 I am currently learning JAVA, SWIFT and PHP.
 - 💞️ I'm looking to collaborate on projects of my own
 - 📫 How to reach me: matteo@giuliano.family
 
