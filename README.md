@@ -1,8 +1,7 @@
 - 👋 Hi, I'm @matteogiulianoo
 - 👀 I'm interested in the world of computer science
-- 🌱 I am currently learning LUA.
+- 🌱 I am currently learning.
 - 📘 I am a FullStack Web Developer, Java Developer, etc.
-- 💞️ I'm looking to collaborate on projects of my own
 - 📫 How to reach me: matteo@giuliano.family
 
 <!---
