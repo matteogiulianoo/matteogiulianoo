@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @matteogiulianoo
 - 👀 I'm interested in the world of computer science
 - 🌱 I am currently learning.
-- 📘 I am a FullStack Web Developer, Java Developer, etc.
+- 📘 I am a FullStack Web Developer.
 
 <!---
 matteogiulianoo/matteogiulianoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
