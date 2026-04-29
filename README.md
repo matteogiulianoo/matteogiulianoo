@@ -1,6 +1,4 @@
 - 👋 Hi, I'm @matteogiulianoo
-- 👀 I'm interested in the world of computer science
-- 🌱 I am currently learning.
 - 📘 I am a Developer.
 
 <!---
